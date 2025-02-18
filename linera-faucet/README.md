@@ -6,7 +6,7 @@ Common definitions for the Linera faucet.
 
 ## Contributing
 
-See the [CONTRIBUTING](../CONTRIBUTING.md) file for how to help out.
+See the [CONTRIBUTING](../CONTRIBUTING.md) file for how to help out..
 
 ## License
 
