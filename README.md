@@ -63,7 +63,7 @@ from low to high levels in the dependency graph)
 ## Quickstart with the Linera service CLI
 
 The following commands set up a local test network and run some transfers between the
-microchains owned by a single wallet. Test
+microchains owned by a single wallet. Testing
 
 ```bash
 # Make sure to compile the Linera binaries and add them in the $PATH.
